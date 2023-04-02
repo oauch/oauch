@@ -2,8 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoonHyuk%20GitHub&fontSize=90" /	
 </div>
 
-[![Solved.ac 
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lgm9515)](https://solved.ac/lgm9515/)
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
