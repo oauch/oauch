@@ -2,7 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoonHyuk%20GitHub&fontSize=90" /	
 </div>   
 
-<br>
+
+```
+💡 재사용 가능한 코드를 작성하여 누구나 쉽게 사용할 수 있는 코드를 작성하려고 노력하고 있습니다
+```
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
