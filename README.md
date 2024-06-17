@@ -29,4 +29,12 @@
 <div align=left>
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
-<br>
+<br />
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/oauch?pet-id=587635833586167306"
+    width="100"
+    height="100"
+  />
+</a>
